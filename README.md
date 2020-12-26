@@ -9,6 +9,7 @@ Elvita is experimenting and learning here.
 * [Loan Calculator](LoanCalculator)
 * [Number Guesser](NumberGuesser)
 * [Git Hub User Finder](GitHubUserFinder)
-* Weather app
+* [Weather API](WeatherAPI)
+
 
 
