@@ -6,7 +6,7 @@ Elvita is experimenting and learning here.
 
 * [Task List](TaskList)
 * [Book List](BookList)
+* [Loan Calculator](LoanCalculator)
 * Weather app
 * GitHub user finder
-* Loan calculator
 
