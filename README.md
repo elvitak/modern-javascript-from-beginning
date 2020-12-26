@@ -4,7 +4,7 @@ Elvita is experimenting and learning here.
 
 ## Current projects
 
-* [Task List](task-list)
+* [Task List](TaskList)
 * Weather app
 * GitHub user finder
 * Loan calculator
