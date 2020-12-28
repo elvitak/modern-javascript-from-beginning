@@ -10,6 +10,8 @@ Elvita is experimenting and learning here.
 * [Number Guesser](NumberGuesser)
 * [Git Hub User Finder](GitHubUserFinder)
 * [Weather API](WeatherAPI)
+* [Calorie Tracker](CalorieTracker)
+
 
 
 
